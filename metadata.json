@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA - AI-Powered Consumer Tech Marketplace",
+  "description": "Premium AI-driven consumer tech e-commerce marketplace featuring 3D product visualizers, interactive AI shopping assistant, and cutting-edge smart gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
